@@ -92,5 +92,6 @@ funfacts:
       make us stand out from the crowd.
 title: Success IT
 description: We build bespoke software platforms for businesses since 2005
+bg_image: "/images/21070002.pdf"
 
 ---
